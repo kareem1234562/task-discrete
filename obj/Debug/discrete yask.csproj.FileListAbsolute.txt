@@ -1,0 +1,8 @@
+C:\Users\Kareem Elsum\source\repos\discrete yask\discrete yask\bin\Debug\discrete yask.exe.config
+C:\Users\Kareem Elsum\source\repos\discrete yask\discrete yask\bin\Debug\discrete yask.exe
+C:\Users\Kareem Elsum\source\repos\discrete yask\discrete yask\bin\Debug\discrete yask.pdb
+C:\Users\Kareem Elsum\source\repos\discrete yask\discrete yask\obj\Debug\discrete yask.csproj.AssemblyReference.cache
+C:\Users\Kareem Elsum\source\repos\discrete yask\discrete yask\obj\Debug\discrete yask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kareem Elsum\source\repos\discrete yask\discrete yask\obj\Debug\discrete yask.csproj.CoreCompileInputs.cache
+C:\Users\Kareem Elsum\source\repos\discrete yask\discrete yask\obj\Debug\discrete yask.exe
+C:\Users\Kareem Elsum\source\repos\discrete yask\discrete yask\obj\Debug\discrete yask.pdb
